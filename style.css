@@ -132,6 +132,26 @@ footer {
 
 }
 
+@media (max-width: 760px)  { 
+    
+    .search button img {
+
+        width: 40px;
+    }
+
+    .weather h1 {
+        font-size:40px;
+        font-weight: 200;
+    
+    }
+    .weather h2 {
+        font: size 30px;
+        font-weight: 200;
+        margin-top: -20px;
+    }
+
+
+
 
 
 
