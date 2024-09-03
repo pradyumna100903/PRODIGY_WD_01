@@ -1,5 +1,10 @@
-# PRODIGY_WD_05
-This Repository contains all the resources that are required for Task 5 of Web Dev of Prodigy InfoTech
+# What's The Weather?
+This Repository contains all the resources that are required for Simple Weather Application 
+
+## Languages Used
+  1.HTML <br>
+  2.CSS <br> 
+  3.JavaScript
 
 <h1> Weather Application Using API </h1>
 
